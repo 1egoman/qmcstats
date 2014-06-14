@@ -1,6 +1,10 @@
 {
-  "base": {
-    "host": "play.gotpvp.net",
+  "server1": {
+    "host": "server host",
     "port": 25565
-  }
+  },
+  "server2": {
+    "host": "server host",
+    "port": 25565
+  },
 }
