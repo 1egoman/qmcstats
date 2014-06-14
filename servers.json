@@ -1,0 +1,6 @@
+{
+  "base": {
+    "host": "play.gotpvp.net",
+    "port": 25565
+  }
+}
